@@ -2,7 +2,7 @@ import axios from 'axios';
 import Notiflix from 'notiflix';
 
 //Унікальний ключ доступу до API Pixabay
-const KEY = '37030220-55e5b35e4370d44ae057df5d9';
+const KEY = '41088476-3306dd45aae3fbb545cf421af';
 
 //Ліміт отриманих об'ектів на сторінці
 const pageLimit = 40;
