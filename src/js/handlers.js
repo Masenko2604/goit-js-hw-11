@@ -1,6 +1,6 @@
 import Notiflix, { Loading } from 'notiflix';
 import SimpleLightbox from 'simplelightbox';
-// Додатковий імпорт стилів
+
 import 'simplelightbox/dist/simple-lightbox.min.css';
 import { refs } from './refs';
 import { renderGalleryMarkup } from './createmarkup';
